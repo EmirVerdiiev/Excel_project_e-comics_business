@@ -1,1 +1,27 @@
-It is a description of the dataset used in the project.
+Dataset Description
+
+This project uses a synthetic dataset that simulates a digital comics reading platform. It contains information about users, reading activity, in-app purchases, refunds, and marketing campaigns.
+
+The dataset consists of nine interconnected tables:
+
+users — User IDs, registration dates, countries, device types, and marketing campaign IDs.
+
+payments — Payment IDs, user IDs, purchased packages, transaction amounts, payment statuses, and completion dates.
+
+refunds — Refund IDs, associated payment IDs, refunded amounts, and refund dates.
+
+coin_packages — Virtual currency packages available for purchase.
+
+comics — Comic IDs, titles, and genres.
+
+episodes — Episode IDs and their associated comics.
+
+reading_sessions — Reading session IDs, user IDs, episode IDs, session timestamps, and reading progress percentages.
+
+episode_unlocks — Records of episodes unlocked by users.
+
+campaigns — Marketing campaign IDs and advertising expenditures.
+
+The tables are connected through primary and foreign keys, allowing information about users, transactions, reading behavior, and marketing activities to be analyzed together.
+
+All data is artificially generated and does not represent real users or financial transactions.
