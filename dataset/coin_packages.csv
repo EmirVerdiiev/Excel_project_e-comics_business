@@ -1,0 +1,5 @@
+package_id,package_name,coins,list_price_usd
+1,Small,100,4.99
+2,Medium,250,9.99
+3,Large,600,19.99
+4,"Unused premium",1500,44.99

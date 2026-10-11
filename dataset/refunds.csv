@@ -1,0 +1,15 @@
+refund_id,payment_id,refunded_at,amount_usd,coins_revoked,reason
+1,9,"2026-04-24 21:00:42",9.99,250,customer_request
+2,63,"2026-06-10 03:27:58",9.99,250,accidental_purchase
+3,75,"2026-04-30 21:10:42",19.99,600,customer_request
+4,81,"2026-01-21 23:54:06",19.99,600,accidental_purchase
+5,94,"2026-03-23 11:01:40",19.99,600,customer_request
+6,95,"2026-03-27 18:09:34",19.99,600,accidental_purchase
+7,101,"2026-04-28 08:03:33",4.99,100,customer_request
+8,104,"2026-05-12 12:44:50",19.99,600,accidental_purchase
+9,114,"2026-05-22 05:32:52",19.99,600,accidental_purchase
+10,124,"2026-02-26 07:12:28",9.99,250,customer_request
+11,126,"2026-05-12 18:39:58",9.99,250,customer_request
+12,134,"2026-01-20 16:34:18",19.99,600,customer_request
+13,139,"2026-06-28 11:04:36",4.99,100,accidental_purchase
+14,165,"2026-06-26 19:47:20",19.99,600,customer_request
