@@ -1,4 +1,4 @@
-###  Excel_project_e-comics_business
+#  Excel_project_e-comics_business
 Comics App — Data Analysis Project
 
 ## Project Overview
@@ -8,16 +8,16 @@ The project uses a synthetic relational dataset containing information about use
 
 ## Tools and Technologies
 
-# SQL (MySQL)
+### SQL (MySQL)
 Data querying, joins, aggregations, CTEs, window functions, and analytical calculations.
 
-# Excel / WPS Spreadsheets
+### Excel / WPS Spreadsheets
 Data preparation, calculated columns, lookup functions, Pivot Tables, and reporting.
 
-# Data Visualization
+### Data Visualization
 Charts and graphical representations of key business metrics.
 
-## Project Objectives
+### Project Objectives
 
 The main objectives of the project are:
 
@@ -37,23 +37,23 @@ The main objectives of the project are:
 
 The analysis covers several areas:
 
-# 1. User Analysis
+### 1. User Analysis
 
 Exploring user distribution by country and device type, identifying paying users, and calculating payer conversion rates.
 
-# 2. Revenue Analysis
+### 2. Revenue Analysis
 
 Calculating total successful payments, refunded amounts, and net revenue. Comparing financial performance across countries and device types.
 
-# 3. Monetization Metrics
+### 3. Monetization Metrics
 
 Calculating Average Revenue Per User (ARPU) and Average Revenue Per Paying User (ARPPU) to evaluate user monetization.
 
-# 4. Monthly Revenue Trends
+### 4. Monthly Revenue Trends
 
 Analyzing how revenue changes over time using monthly aggregations and line charts.
 
-# 5. Reporting and Visualization
+### 5. Reporting and Visualization
 
 Creating Pivot Tables and charts to summarize business performance and make analytical results easier to interpret.
 
